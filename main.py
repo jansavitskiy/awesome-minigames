@@ -1,0 +1,1 @@
+print('Для начала введи в терминале pip install pygame или через requirments.txt')
